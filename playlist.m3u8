@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:62
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.000000,
+http://a.stroj-bt.com:89/hls/AAfKhMqhDiUysYsSceovly_EjoZnRHMgHFi-GBgWInRL3zGpfoIJPuwj4MkOV0Pkj_KnYvxFWu-sSbl0K4TR4nwtx5R6QQxWLG0Q5tLpbFx1KhSOqAF57f9n0GsJk0v1XmfsPagmhepdaW844jI5_A
+#EXTINF:10.000000,
+http://a.stroj-bt.com:89/hls/AAfKhMqhDiUysYsSceovly_EjoZnRHMgHFi-GBgWInRL3zGpfoIJPuwj4MkOV0Pkdxl4jbBgi0xz_CxQiveJHUV2jNOObM-4wbar-ZGYYyQAQ-wHPb3fjnOmLL07jULCCaoIFh9IwQ9Z1kJVuVDHVw
+#EXTINF:10.000000,
+http://a.stroj-bt.com:89/hls/AAfKhMqhDiUysYsSceovly_EjoZnRHMgHFi-GBgWInRL3zGpfoIJPuwj4MkOV0PkOmcvVasHjYyc9nG_eypJkdtqyZs5U2nKtuy0B2DmfrGi8YPDT4c34Cyr3m0548J1zAQ0xanwznOGbMWEdRQxFg
+#EXTINF:10.000000,
+http://a.stroj-bt.com:89/hls/AAfKhMqhDiUysYsSceovly_EjoZnRHMgHFi-GBgWInRL3zGpfoIJPuwj4MkOV0PkfLUNPJ4OHvA5xy5eHUhlx7qHB_JdTje6nWmiZLyg4ENJmmPc1wsoOX9RBdNGKHT81J48nOXsZOOwdoexLlaQCQ
+#EXTINF:10.000000,
+http://a.stroj-bt.com:89/hls/AAfKhMqhDiUysYsSceovly_EjoZnRHMgHFi-GBgWInRL3zGpfoIJPuwj4MkOV0PkUEGx9g59E5PYeVWTLCkZLimaDwbC8BmoltkNOC3K-f2k5xdZ2BkiJj2sLl9bEalrMug4xD6FbfPkJGDnN6ODbQ
+#EXTINF:10.000000,
+http://a.stroj-bt.com:89/hls/AAfKhMqhDiUysYsSceovly_EjoZnRHMgHFi-GBgWInRL3zGpfoIJPuwj4MkOV0Pkkhr7MjQaCc5U_lqfxB41wTDtiLlkpfVjPl3NPJ891LZT0Is6a6jQpIlCkeGm_5PjYnKNvWzv9oKmbkHraiFxHA
